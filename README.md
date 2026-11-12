@@ -1,1 +1,2 @@
-Gercek calisma ortami egitimim.
+Gercek calisma ortamini deneyimlemem icin hazirladigim Spor salonu otomasyon projesidir. Bu projede React, Vite, JavaScript ve CSS kullanilmaktadir.
+Proje indirildikden sonra proje dosyasindaki terminalden npm ci ve npm run dev komutu ile baslatabilir, terminalde gorunen linke tarayicinizdan bagalanilarak calismaya baslanilabilir.
